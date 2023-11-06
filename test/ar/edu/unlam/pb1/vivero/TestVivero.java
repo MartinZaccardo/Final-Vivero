@@ -50,9 +50,5 @@ public class TestVivero {
 		vivero.agregarPlanta(planta3);
 	}
 	
-	@Test
-	public void pruebaGithub() {
-		System.out.println("Hola mundo");
-	}
 
 }
